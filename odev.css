@@ -1,1 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+  }
 
+  table{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 18px;
+  }
+
+  button{
+    background-color: aliceblue;
+    font-size: large;
+  }
